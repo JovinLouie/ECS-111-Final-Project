@@ -2,14 +2,14 @@
 
 By Jovin Louie, Samarth Sridhara, Iain Hennington\
 Professor Zhe Zhao\
-Spring Quarter 2025 - UC Davis\
+Spring Quarter 2025 - UC Davis
 
 ---
 
 The final data, .py files, .ipynb files, as well as report paper and slides for our final project
 which focused on detecting smurfs in the online PvP game "Valorant".
 
-# Abstract
+## Abstract
 
 The purpose of this paper is to attempt to see if tabular data is sufficient in understanding player
 skill and detecting whether a user is playing at a rank they’re not supposed to be in, or in other
